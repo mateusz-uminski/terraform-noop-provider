@@ -1,4 +1,4 @@
-# go-nethttp-healthz
+# terraform-noop-provider
 
 [![verify](https://github.com/mateusz-uminski/terraform-noop-provider/actions/workflows/verify.yml/badge.svg)](https://github.com/mateusz-uminski/terraform-noop-provider/actions/workflows/verify.yml)
 
